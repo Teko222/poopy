@@ -1,1 +1,1 @@
-this is a website for my discord bot
+# discord-bot
